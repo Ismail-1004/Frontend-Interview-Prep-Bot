@@ -1,0 +1,25 @@
+{
+  "name": "frontend-interview-prep-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ismail-1004/Frontend-Interview-Prep-Bot.git"
+  },
+  "author": "Ismail Kherkheulidze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ismail-1004/Frontend-Interview-Prep-Bot/issues"
+  },
+  "homepage": "https://github.com/Ismail-1004/Frontend-Interview-Prep-Bot#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "grammy": "^1.19.2",
+    "nodemon": "^3.0.2"
+  }
+}
